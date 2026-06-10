@@ -42,8 +42,8 @@ Aqui estão as tecnologias que fazem parte da minha stack de desenvolvimento:
 > **Nota:** Não se esqueça de trocar `SEU_USUARIO` nas URLs abaixo pelo seu nome de usuário real do GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kkfabio&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkfabio&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Utilizadas" height="150"/>
 </p>
 
 ## 📫 Como me encontrar
