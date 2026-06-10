@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o Fávio Nunes 👋 </h1>
+<h1 align="center"> Olá! Eu sou o Fábio Nunes 👋 </h1>
 
 <p align="center">
   <i>Desenvolvedor focado em construir soluções eficientes, apaixonado por tecnologia e aprendizado contínuo.</i>
