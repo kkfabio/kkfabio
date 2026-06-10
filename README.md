@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o [Seu Nome] 👋 </h1>
+<h1 align="center"> Olá! Eu sou o Fábio Nunes 👋 </h1>
 
 <p align="center">
   <i>Desenvolvedor focado em construir soluções eficientes, apaixonado por tecnologia e aprendizado contínuo.</i>
@@ -8,11 +8,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-* 🔭 Atualmente trabalhando em **[nome da empresa ou projeto atual]**
-* 🌱 Aprofundando meus conhecimentos em **[tecnologia, arquitetura ou conceito, ex: Arquitetura de Microsserviços]**
-* 👯 Aberto a colaborações em **[projetos open source ou tipos de projetos que te interessam]**
-* 💬 Pergunte-me sobre **[assuntos que você domina, ex: Java, TypeScript, etc.]**
-* ⚡ Curiosidade: **[um hobby divertido ou fato rápido sobre você fora da programação]**
+* 🔭 Atualmente trabalhando na **ADDERE COMUNICAÇÕES como estaigário em Dessenvolvimento de Software**
+* 🌱 Aprofundando meus conhecimentos em **Spring Boot e Next.js**
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -52,13 +49,13 @@ Aqui estão as tecnologias que fazem parte da minha stack de desenvolvimento:
 ## 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil-aqui" target="_blank">
+  <a href="https://linkedin.com/in/fabio-nascimento-nunes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:fabionascfilho@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/55DDD9NNNNNNNN?text=Ol%C3%A1!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+  <a href="https://wa.me/5581988177227?text=Ol%C3%A1!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
