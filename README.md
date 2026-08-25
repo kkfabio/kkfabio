@@ -8,11 +8,11 @@ Desenvolvedor full-stack com formação em Análise e Desenvolvimento de Sistema
 
 Trabalho como estagiário em desenvolvimento de software na **ADEERE Comunicações**, onde atuo no desenvolvimento de aplicações web, APIs REST e sistemas de automação. Tenho experiência com Spring Boot no backend e React/Next.js no frontend, com interesse particular em otimização de performance e arquitetura de software.
 
-A programação começou como interesse em games e evoluiu para uma carreira. Fora do código, gosto de ler sobre desenvolvimento de software e me exercitar.
+A programação começou como interesse em games e evoluiu para uma carreira. Fora do código, gosto de ler sobre desenvolvimento de software.
 
 ---
 
-## Tech Stack
+## Stacks
 
 **Backend**  
 Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · APIs REST
@@ -35,15 +35,6 @@ Sistema fullstack de gestão de pedidos desenvolvido com Spring Boot, React e Po
 
 ### Universidade Heineken (UHNK)
 Plataforma de e-learning corporativa construída com Java/Spring Boot no backend (Railway) e Next.js/TypeScript no frontend (Vercel). Inclui arquitetura escalável, autenticação segura e integração de conteúdos interativos.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkfabio&show_icons=true&theme=github_light&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkfabio&layout=compact&theme=github_light&hide_border=true" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
