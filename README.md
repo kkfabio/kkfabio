@@ -60,7 +60,7 @@ const FabioNascimento = {
         "System Architecture",
         "Clean Code Principles",
         "Performance Tuning",
-        "Microservices Patterns",
+        "Design Patterns",
         "CI/CD Pipelines"
     ],
 
@@ -106,184 +106,97 @@ const FabioNascimento = {
 
 ---
 
-# 🚀 MISSION CONTROL
-
-```bash
-> Initializing objectives...
-
-Java & Spring Boot Development
-██████████████████████ 100%
-
-REST API Architecture
-██████████████████████ 100%
-
-Performance Optimization
-███████████████░░░░░░ 76%
-
-System Design & Architecture
-██████████████░░░░░░░ 68%
-
-Cloud Infrastructure
-███████████░░░░░░░░░░ 56%
-
-DevOps & CI/CD
-█████████░░░░░░░░░░░░ 48%
-
-Status:
-Continuous Learning Mode 🔄
-```
-
----
-
-# 🛰 DEVELOPER CONSOLE
-
-```console
-$ whoami
-
-Fábio Nascimento
-
-$ current_role
-
-Backend Developer - ADEERE Comunicações
-
-$ primary_language
-
-Java
-
-$ framework
-
-Spring Boot
-
-$ database_expertise
-
-PostgreSQL • SQL Server
-
-$ specialization
-
-Performance Optimization (40% improvement achieved)
-
-$ editor
-
-VS Code / IntelliJ IDEA
-
-$ coffee
-
-∞ Cups
-
-$ philosophy
-
-while(building){
-    optimize();
-    test();
-    refactor();
-    deploy();
-}
-```
-
----
-
 # 🛠 CORE SKILLS
 
 | Categoria | Tecnologias |
 |-----------|-----------|
-| Backend | Java • Spring Boot • Spring Security • JPA/Hibernate |
-| APIs | REST • JWT • Spring Data • Express.js |
-| Database | PostgreSQL • SQL Server • Database Design • Query Optimization |
-| Patterns | Repository • Singleton • Factory • Builder • Strategy • Observer • Dependency Injection |
-| Principles | SOLID • Clean Code • Design Patterns • TDD |
-| Frontend | React • Next.js • TypeScript • Tailwind CSS |
-| DevOps | Docker • Git • GitHub Actions • Linux |
+| Back-end | Java 17+ • Spring Boot • Spring Security • Spring Data JPA • JWT • Hibernate • APIs REST |
+| Design Patterns | Repository • Singleton • Factory • Strategy • Observer • Dependency Injection |
+| Front-end | React • Next.js • TypeScript • JavaScript • CSS3 • Tailwind CSS |
+| Banco de Dados | PostgreSQL • SQL Server • SQL • Modelagem Relacional • JPA/Hibernate |
+| Testes | JUnit 5 • Mockito • Postman |
+| DevOps / Infra | Git • GitHub • Docker • GitHub Actions • Railway • Vercel |
+| Ferramentas | ServiceNow • Automação de Processos • Sistemas de Chat |
+| Metodologias | Scrum • Kanban • Clean Code • SOLID • RESTful API Design • TDD |
 
 ---
 
-# 🔥 CORE SPECIFICATIONS
+# 💼 EXPERIÊNCIA PROFISSIONAL
 
 ```bash
-┌─ BACKEND STACK ─────────────────────────────┐
-│                                             │
-│  Runtime:     JVM • OpenJDK                │
-│  Framework:   Spring Boot 3.x              │
-│  Security:    Spring Security + JWT       │
-│  ORM:         JPA • Hibernate              │
-│  Build:       Maven • Gradle               │
-│  Testing:     JUnit 5 • Mockito            │
-│                                             │
-│ ┌─ DATABASE LAYER ───────────┐             │
-│ │  Primary:   PostgreSQL     │             │
-│ │  Secondary: SQL Server     │             │
-│ │  NoSQL:     MongoDB        │             │
-│ │                             │             │
-│ └─────────────────────────────┘             │
-│                                             │
-│ ┌─ INFRASTRUCTURE ───────────┐             │
-│ │  Containerization: Docker  │             │
-│ │  Version Control: Git      │             │
-│ │  CI/CD: GitHub Actions     │             │
-│ │  Cloud: Railway • Vercel   │             │
-│ │                             │             │
-│ └─────────────────────────────┘             │
-└─────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════╗
+║   Estagiário em Desenvolvimento de Software       ║
+║   ADEERE Comunicações — 2025 até o momento        ║
+╚════════════════════════════════════════════════════╝
+
+[✔] Atendimento técnico multichannel (chat, e-mail, telefone)
+    com análise diagnóstica N1, N2, N3.
+
+[✔] Implementação e otimização de sistemas de automação
+    para processamento de interações via chat, reduzindo
+    falhas e retrabalho manual.
+
+[✔] Desenvolvimento de aplicações web institucionais
+    e landing pages com foco em boas práticas e UX.
+
+[✔] Análise de performance e otimização de código:
+    identificação de gargalos em queries SQL
+    (PostgreSQL / SQL Server), refatoração de loops
+    ineficientes — ganhos de até 40% no desempenho
+    medidos via EXPLAIN ANALYZE.
+
+[✔] Consultas e análise de dados em SQL para verificação
+    e manutenção de sistemas.
 ```
 
 ---
 
-# 📊 PERFORMANCE METRICS
+# 🚀 PRODUCTION SYSTEMS
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kkfabio&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkfabio&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kkfabio&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkfabio&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kkfabio&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION MAP
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kkfabio/kkfabio/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🌟 PRODUCTION SYSTEMS
-
-| 🚀 Sistema | 💡 Descrição | ⚙️ Stack |
+| 🚀 Projeto | 💡 Descrição | ⚙️ Stack |
 |-----------|-----------|----------|
-| **PedidoFácil** | Sistema de gestão de pedidos e delivery | Spring Boot • React • PostgreSQL |
-| **UHNK Platform** | Plataforma corporativa e-learning | Spring Boot • Next.js • PostgreSQL |
-| **Meets Pageflow** | Arquitetura de API e tratamento de falhas | Java • REST API • Design Patterns |
-| **ServiceNow Suite** | Aplicação AuMiau Pet Shop | ServiceNow • ITSM • Pratica Academy |
-| **Law Firm Sites** | Landing pages para advocacia | React • Tailwind CSS • Performance |
+| **PedidoFácil** | Sistema fullstack de gestão de pedidos com auth JWT, API REST documentada e testes unitários | Spring Boot • React • PostgreSQL • JUnit 5 • Mockito |
+| **UHNK Platform** | Plataforma e-learning corporativa com CI/CD via GitHub Actions e back-end hospedado no Railway | Spring Boot • Next.js • TypeScript • PostgreSQL |
+
+---
+
+# 🔐 DESIGN PATTERNS APLICADOS
+
+```java
+// PedidoFácil
+Repository   → desacopla a camada de dados
+Singleton    → garante instância única de serviços
+Strategy     → encapsula regras de negócio variáveis
+
+// UHNK Platform
+Factory            → criação flexível de conteúdos
+Observer           → notificações de progresso
+Dependency Injection → inversão de controle nos serviços
+```
+
+---
+
+# 🎓 FORMAÇÃO
+
+```bash
+$ curso
+Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+$ instituição
+FICR — Faculdade Imaculada Conceição do Recife
+
+$ período
+2025 – 2027 (em andamento)
+```
+
+---
+
+# 🌐 IDIOMAS
+
+```bash
+$ inglês     → Intermediário (B2)
+$ espanhol   → Intermediário (B2)
+```
 
 ---
 
@@ -299,96 +212,6 @@ while(building){
 | [WhatsApp](https://wa.me/5581988177227) | Available |
 
 </div>
-
----
-
-# 💡 LEARNING MODULES
-
-```bash
-╔════════════════════════════════════════════════════╗
-║        CONTINUOUS DEVELOPMENT ROADMAP             ║
-╚════════════════════════════════════════════════════╝
-
-[✓] Java Fundamentals
-[✓] Spring Boot Mastery
-[✓] REST API Design
-[✓] Database Optimization
-[→] Advanced Architecture Patterns
-[→] Microservices & Cloud Native
-[→] Performance Engineering
-[→] System Design at Scale
-[→] Kubernetes & Orchestration
-
-Priority: High
-Status: In Progress
-Dedication: Maximum
-
-```
-
----
-
-# 🎯 EXPERTISE BREAKDOWN
-
-```
-Backend Architecture     ████████████████░░ 85%
-API Design & REST       ████████████████░░ 84%
-Database Optimization   ███████████████░░░ 78%
-Performance Tuning      ███████████████░░░ 76%
-Design Patterns         ██████████████░░░░ 72%
-System Architecture     ███████████░░░░░░░ 60%
-Cloud Infrastructure    ██████████░░░░░░░░ 55%
-Microservices           █████████░░░░░░░░░ 50%
-```
-
----
-
-# 🔐 CODE QUALITY STANDARDS
-
-```java
-public interface DeveloperCommitment {
-    
-    void writeCleanCode();
-    
-    void optimizePerformance();
-    
-    void testThoroughly();
-    
-    void documentProperly();
-    
-    void refactorRegularly();
-    
-    void followSOLID();
-    
-    void masterDesignPatterns();
-    
-    void neverStopLearning();
-}
-
-// Implementation: Committed to Excellence
-```
-
----
-
-# 📡 STATUS
-
-```bash
-╔════════════════════════════════════════════════════╗
-║              SYSTEM STATUS REPORT                 ║
-╚════════════════════════════════════════════════════╝
-
-Server:        ONLINE
-Backend:       OPERATIONAL
-Database:      CONNECTED
-Performance:   OPTIMAL
-Code Quality:  EXCELLENT
-Coffee Level:  CRITICAL (Refill Needed)
-Motivation:    ████████████████░░ 95%
-Availability:  ALWAYS_LEARNING
-
-Last Update: 2026
-Next Mission: Build something incredible
-
-```
 
 ---
 
